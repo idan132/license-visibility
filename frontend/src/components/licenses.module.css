@@ -1,0 +1,143 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .header{
+    position: fixed; left: 200px;top:0px;
+    font-family: "Arial";
+    color: rgb(76, 76, 76);
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 40px;
+    font-weight: 700;
+  }
+  .subtitle{
+    position: fixed; left: 200px; top:70px;
+    font-family: "Arial";
+    color: rgb(121, 121, 121);
+    font-size: 15px;
+    margin-left: 100px;
+    margin-top: 15px;
+  }
+  .general {
+    min-height: 100vh;
+    background-color: rgb(255, 255, 255);
+    padding: 0 120px 653px 188px;
+    box-shadow: 0 4px 4px 0 rgba(222, 222, 222, 0.25);
+    display:block;
+    position: relative;
+   
+    }
+    .navbar {
+      width: 150px;
+      height: 100%;
+      position: fixed;
+      top:0;left:0;
+      align-items: center;
+      background-color:#d8d8d8;
+      box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.5);
+      
+    }
+  
+    .logo {
+      position:fixed; top:0;left: 7px;
+      width: 111px;
+      height: 111px;
+    }
+    
+    .navigation {
+      margin-top: 1px;
+      display: flex;
+      flex-direction: column;
+    }
+    .ul{
+      list-style-type: none;
+    }
+   
+    
+    .licenses {
+      width: 210px;
+      text-decoration: none;
+      color: rgb(76, 76, 76);
+      display: flex;
+      position:fixed; left:0; top: 160px;
+      padding: 20px;
+      font-family: "Arial";
+      font-size: 15px;
+      font-weight: 800;
+      transition: ease 0.25s all;
+      border-radius: 0px;
+    }
+  
+    .licenses:hover{
+      background-color: rgb(255, 255, 255,0.4);
+    }
+
+    .policies{
+      width: 210px;
+      text-decoration: none;
+      color: rgb(76, 76, 76);
+      display: flex;
+      position:fixed; left:0; top:220px;
+      padding: 20px;
+      font-family: "Arial";
+      font-size: 15px;
+      font-weight: 800;
+      transition: ease 0.25s all;
+      border-radius: 0px;
+    }
+  
+    .policies:hover{
+      background-color: rgb(255, 255, 255,0.4);
+    }
+    
+    .dataGrid{
+      margin:40px 0 0 0;
+      height: 75vh;
+      width: 140vh;
+      padding-left: 100px;
+      position: fixed; top: 70px;
+    }
+
+
+
+  .link{
+    color: white;
+    transition: ease 0.25s all;
+  }
+
+  .link:hover{
+    cursor: pointer;
+    color: rgb(134, 138, 138);
+  }
+
+ 
+  .textBox{
+    margin-left: 600px;
+    margin-top: 40px;
+    position: fixed;
+    font-size: 1.25em;
+    font-family: "Arial";
+    width: 400px;
+    height: 20px;
+    background-color: rgb(160, 160, 160);
+    color: white;
+    
+    outline: none;
+    border-radius: 4px;
+    box-shadow: 0 0 8px 0 transparent;
+    border:none;
+    outline:none;
+    
+    text-align:left;
+    box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.5);
+    padding-top: 5px;
+    padding-left: 12px;
+  }
+
+  .textBox::placeholder{
+    color: white;
+  }
+  
