@@ -34,6 +34,6 @@ Once you have node installed on your system, clone this repository and do the fo
 https://user-images.githubusercontent.com/74436218/226866454-81bf2120-3e61-46f9-afe7-2918713bdff0.mp4
 
 
-## Note: currently the CLI doesn't output the path in which the package is used, this functionality exists only in the UI
+#### Note: currently the CLI doesn't output the path in which the package is used, this functionality exists only in the UI
 
 ### Feel free to contact in the discussions for any feature requests & extra suggestions
