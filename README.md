@@ -22,7 +22,7 @@ Once you have node installed on your system, clone this repository and do the fo
 * Run the command: node ./src/app.js | note that the backend runs on port 5432, if you would like to change it use the .env file under the backend folder
 * Open another instance of the terminal, and navigate to the frontend folder
 * Run the command: npm i
-* Run the command: npm run start | note that the react fromtend runs on port 3000 by default
+* Run the command: npm run start | note that the react frontend runs on port 3000 by default
 * Navigate to http://localhost:3000/Licenses
 * Enjoy! :)
 
@@ -34,4 +34,4 @@ Once you have node installed on your system, clone this repository and do the fo
 https://user-images.githubusercontent.com/74436218/226866454-81bf2120-3e61-46f9-afe7-2918713bdff0.mp4
 
 
-## Feel free to contact in the discussion for any feature requests & extra suggestions
+### Feel free to contact in the discussion for any feature requests & extra suggestions
