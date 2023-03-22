@@ -8,7 +8,7 @@ In order to use the tool you'll need node installed on your machine - https://no
 
 Once you have node installed on your system, clone this repository and do the following steps:
 
-### For CLI Usage
+### Using the CLI
 * Open your terminal and navigate to the license-check-cli folder in the code
 * Run this command: node license-checker.js /path/to/your/code/root/directory
 * Wait until the scan is done, and watch the results :)
