@@ -1,7 +1,8 @@
 # The ultimate open source & free to use license visibility tool
 Gain visibility on all 3rd party licenses and dependencies in your repo, regardless of how big it is - monorepos are supported as well...
 
-Run the tool with either a simple CLI command, or with a handy UI with filtering & exportation capabilities! The choice is yours :)
+Run the tool with either a simple CLI command, or with a handy UI with filtering & exportation capabilities! 
+The choice is yours :)
 
 # How to install & run
 In order to use the tool you'll need node installed on your machine - https://nodejs.org/en/download
