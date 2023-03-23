@@ -29,7 +29,7 @@ Once you have node installed on your system, clone this repository and do the fo
 
 
 
-<img width="1288" alt="Screen Shot 2023-03-23 at 11 32 08" src="https://user-images.githubusercontent.com/74436218/227161457-79dfc28b-42db-43c6-9568-bf6e182a8b05.png">
+<img width="1288" alt="Screen Shot 2023-03-23 at 11 32 08" src="https://user-images.githubusercontent.com/74436218/227161637-6bffea72-0071-43e0-accd-96ba254c99e9.png">
 
 
 
