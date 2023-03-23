@@ -7,8 +7,7 @@ const { dir } = require('console');
 function findLicenses(codeDir, parentNodeModulesDir = null) {
   const licenses = {};
   const nodeModulesDir = path.join(codeDir, 'node_modules');
-
-  if (fs.existsSync(nodeModulesDir)) {
+  if (fs.existsSync(nodeModulesDir) && nodeModulesDir.indexOf("test") == -1) {
     // If this is a subdirectory of a node_modules directory, use the parent directory as the parent node_modules directory
     const parent = parentNodeModulesDir || path.dirname(nodeModulesDir);
 
