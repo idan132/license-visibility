@@ -28,7 +28,8 @@ Once you have node installed on your system, clone this repository and do the fo
 * Enjoy! :)
 
 
-<img width="1415" alt="Screen Shot 2023-03-22 at 11 41 34" src="https://user-images.githubusercontent.com/74436218/226866160-c4052f52-301e-4326-9bd0-d41add2c425d.png">
+
+<img width="1288" alt="Screen Shot 2023-03-23 at 11 32 08" src="https://user-images.githubusercontent.com/74436218/227161457-79dfc28b-42db-43c6-9568-bf6e182a8b05.png">
 
 
 
